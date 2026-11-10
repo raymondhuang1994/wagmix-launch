@@ -1,6 +1,6 @@
 # WAGMIx Launch V38
 
-WAGMIx Launch 提供繁體中文和英文的品牌介紹、產品預告及聯絡頁。預設語言為繁體中文，可在頁首切換至英文。
+WAGMIx Launch 提供繁體中文和英文的品牌介紹、產品預告及聯絡頁。預設語言為英文，可在頁首切換至繁體中文。原有的 `?lang=en` 連結仍可使用。
 
 ## 部署
 
@@ -15,6 +15,6 @@ WAGMIx Launch 提供繁體中文和英文的品牌介紹、產品預告及聯絡
 
 | 頁面 | 繁體中文 | English |
 |---|---|---|
-| 關於 WAGMIx | `/` | `/?lang=en` |
-| 產品預告 | `/#/products` | `/?lang=en#/products` |
-| 聯絡我們 | `/#/contact` | `/?lang=en#/contact` |
+| 關於 WAGMIx | `/?lang=zh` | `/` |
+| 產品預告 | `/?lang=zh#/products` | `/#/products` |
+| 聯絡我們 | `/?lang=zh#/contact` | `/#/contact` |
